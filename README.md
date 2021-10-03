@@ -2,7 +2,9 @@
 
 ### I'm a Husband, Father & Developer.
 
-- 🌱 I’m currently learning everything.
+#### 🌱 I’m currently learning:
+
+- Terraform
 
 ### Connect With Me:
 - 📫 LinkedIn: https://www.linkedin.com/in/mscribellito/
