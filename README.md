@@ -1,8 +1,8 @@
 ## Hi there, I'm Michael! 👋
 
-### I'm a Husband, Father & Developer.
+I'm a Husband, Father & Developer.
 
-#### 🌱 I’m currently learning:
+### 🌱 I’m currently learning:
 
 - Terraform
 
