@@ -8,7 +8,7 @@ https://gist.github.com/mscribellito
 
 ### 🌱 I’m currently learning:
 
-- Terraform
+- Preparing for GCP PCA
 
 ### Connect With Me:
 - 📫 LinkedIn: https://www.linkedin.com/in/mscribellito/
@@ -28,8 +28,8 @@ https://gist.github.com/mscribellito
 #### Platforms:
 
 <p align="left">
-  <img alt="Amazon Web Services" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" width="100px" />
   <img alt="Google Cloud Platform" src="https://raw.githubusercontent.com/github/explore/62b74b4ac11782e90fa7c275d62ad1a2855d403d/topics/google-cloud/google-cloud.png" width="100px" />
+  <img alt="Amazon Web Services" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" width="100px" />
 </p>
 
 #### Tools:
