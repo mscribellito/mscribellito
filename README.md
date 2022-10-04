@@ -8,9 +8,7 @@ https://gist.github.com/mscribellito
 
 ### 🌱 I’m currently learning:
 
-- Preparing for GCP PCA
-- Expanding Terraform knowledge
-- All things serverless
+- Preparing for CKA
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/mscribellito/)
