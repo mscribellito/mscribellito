@@ -8,7 +8,7 @@ https://gist.github.com/mscribellito
 
 ### 🌱 I’m currently learning:
 
-- Preparing for CKA
+- Preparing for Google Cloud Professional Cloud Security Engineer
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/mscribellito/)
