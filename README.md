@@ -8,7 +8,7 @@ https://gist.github.com/mscribellito
 
 ### 🌱 I’m currently learning:
 
-- 
+- Studying for [Google Cloud Professional Cloud Network Engineer](https://cloud.google.com/learn/certification/cloud-network-engineer)
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/mscribellito/)
