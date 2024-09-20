@@ -8,6 +8,7 @@ https://gist.github.com/mscribellito
 
 ### 🌱 I’m currently learning:
 
+- Preparing for Terraform Authoring and Operations Professional Certification
 - Studying for [Google Cloud Professional Cloud Network Engineer](https://cloud.google.com/learn/certification/cloud-network-engineer)
 
 ### 📫 How to reach me:
